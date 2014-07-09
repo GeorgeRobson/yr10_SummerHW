@@ -26,13 +26,12 @@ Once you can explain the solution you might try to write a computer program to s
 
 ####How many trips from shore to shore must the boat take?
 ```
-answer here
+100
 ```
 ####Explain you algorithm here:
 ```
-answer here
+The two boys take the boat to the other side, then one of them returns with the boat. Then a soldier takes the boat to the other side and stays there while the other boy returns the boat. Repeat this process until all soldiers are across the river
 ```
-
 ##Extension
 Can you represent the algorithm for this problem using a computer program (any language)?
 eg you could show each step in the algorithm using text:
